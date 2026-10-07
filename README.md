@@ -1,4 +1,4 @@
-# qida
+# AI奇大
 
 Exploring practical AI tools, agents and workflows.
 
